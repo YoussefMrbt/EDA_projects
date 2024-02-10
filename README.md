@@ -16,6 +16,8 @@ Analysis and Insights: Findings on gaming trends and player behaviors.
 Documentation: Instructions for accessing and utilizing the Databricks notebooks.
 For a detailed exploration of our methodology and findings, refer to the provided Databricks notebook link.
 
+Github repo: https://github.com/YoussefMrbt/Big_data_Steam
+
 ### EDA_Tinder:
 
 This sub-repository focuses on the exploratory data analysis of Tinder data, aiming to uncover insights into user behavior, preferences, and interaction patterns. Components include:
@@ -25,3 +27,5 @@ Data Visualization Scripts: Python scripts for generating insightful visualizati
 Statistical Analysis: Understand the underlying dynamics of user interactions and preferences on Tinder.
 Findings and Insights: Summarized findings and insights from the EDA process, presenting a coherent narrative of the Tinder ecosystem.
 Documentation: Provides an overview of the dataset, exploration methodologies.
+
+github repo: https://github.com/YoussefMrbt/EDA_Tinder
